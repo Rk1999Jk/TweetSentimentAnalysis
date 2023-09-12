@@ -7,7 +7,7 @@ Tkinter python web application to study sentiment of tweets to study product tre
 
 **Sample UI with sentiment analysis**
 
-<img width="500" alt="Finalyranalysis" src="https://github.com/Rk1999Jk/TweetSentimentAnalysis/assets/115196734/c1e16787-4add-4c6d-a3dc-f63b22edb4f7">
+<img width="700" height="400" alt="Finalyranalysis" src="https://github.com/Rk1999Jk/TweetSentimentAnalysis/assets/115196734/c1e16787-4add-4c6d-a3dc-f63b22edb4f7">
 
 
 
